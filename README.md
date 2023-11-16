@@ -1,3 +1,5 @@
+About Me 💫👩‍💻 :
+
 "As a third-year Computer Science student at the Hebrew University,
 I'm deeply immersed in the world of coding. My passion for programming fuels my journey as I explore various facets of computer science. 
 From diving into algorithmic challenges to experimenting with cutting-edge technologies, 

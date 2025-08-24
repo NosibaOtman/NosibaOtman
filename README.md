@@ -1,8 +1,3 @@
-About Me 💫👩‍💻 :
+About Me 💫👩‍💻
 
-"As a third-year Computer Science student at the Hebrew University,
-I'm deeply immersed in the world of coding. My passion for programming fuels my journey as I explore various facets of computer science. 
-From diving into algorithmic challenges to experimenting with cutting-edge technologies, 
-I find joy in the endless possibilities the field offers. Eager to contribute and collaborate,
-I'm open to new opportunities and projects. Join me on my coding adventure, 
-and let's build something incredible together! 🌐💻 #CodeExplorer #TechEnthusiast"
+"Computer Science graduate from The Hebrew University of Jerusalem with hands-on experience in software development and problem solving. Skilled in Java, C, C++, Python, SQL, and familiar with distributed systems, algorithms, and data structures. I enjoy building scalable software, tackling algorithmic challenges, and creating innovative solutions through code. Passionate about contributing to impactful projects and collaborating in dynamic, fast-paced environments. Check out my repositories to explore my coding journey and projects! 🌐💻 #SoftwareEngineer #AlgorithmLover #CodeExplorer"
